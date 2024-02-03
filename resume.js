@@ -56,7 +56,7 @@ var myResume={
 
 
 
-    "Declaration":"I hearby declare that all the above details about me are true tu my knowledge"
+    "Declaration":"I hearby declare that all the above details about me are true to my knowledge"
 
 }
 console.log(myResume)
